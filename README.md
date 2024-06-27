@@ -7,7 +7,7 @@
 
 ![Vending Machine State Diagram](docs/electronic-lock-state-diagram.png)
 
-**REFERENCE** - [Traffir Signal - EDA Playground](https://www.edaplayground.com/x/FX22)
+**REFERENCE** - [Traffic Signal - EDA Playground](https://edaplayground.com/x/Rfv7)
 
 ## Vending Machine
 - Design a vending machine that accepts only two coins, 5 rupee and 10 rupee. 
