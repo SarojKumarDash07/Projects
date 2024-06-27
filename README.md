@@ -5,7 +5,7 @@
 - Delay for green light 5ns and for red light 1ns.
 
 
-![Vending Machine State Diagram](docs/electronic-lock-state-diagram.png)
+![Traffic Signal State Diagram](docs/traffic-signal-state-diagram.png)
 
 **REFERENCE** - [Traffic Signal - EDA Playground](https://edaplayground.com/x/Rfv7)
 
