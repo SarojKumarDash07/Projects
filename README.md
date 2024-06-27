@@ -5,5 +5,7 @@
   <li>The module also has a 5-bit register (current) that keeps track of the current state of the traffic lights.</li>
   <li>Delay for green light 5ns and for red light 1ns.</li>
 </ul>
-![](https://github.com/SarojKumarDash07/Projects/blob/main/docs/electronic-lock-state-diagram.png)
+![traffic-signal-state-diagram](https://github.com/SarojKumarDash07/Projects/assets/166795886/1090bc16-6f13-4ec8-ac82-be96ec16450e)
+
+
 <b>REFERENCE</b> - https://edaplayground.com/x/Rfv7
