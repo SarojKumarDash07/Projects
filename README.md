@@ -1,4 +1,10 @@
 # Projects
+## Full-Adder-Verification
+
+- Designed a gate-level full-adder.
+- Verification was done using testbench along with several models such as top, common, agent, generator, bfm(bus functional model), transaction, interface, test, environment, input-output monitor, scoreboard and coverage.
+
+**REFERENCE** - [Full-Adder-Verification - EDA Playground](https://edaplayground.com/x/wgeG)
 ## Traffic Signal
 - The module has two input signals, a clock signal (clk) and a reset signal (reset), and four output signals (North, East, South, West) which are 3-bit vectors representing the states of the traffic lights.
 - The module also has a 5-bit register (current) that keeps track of the current state of the traffic lights.
