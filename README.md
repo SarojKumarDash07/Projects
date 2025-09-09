@@ -15,19 +15,19 @@ This repository showcases various projects carried out using both Cadence tools 
 ![Diagram](docs/ckt_dia_differ_amp.jpeg)
 
 ## DC Analysis
-- Check Netlist: [Netlist](netlist/Diff_Amp/DC_Analysis.sp)
+- Ngspice Code: [Netlist](netlist/Diff_Amp/DC_Analysis.sp)
 ### DC output of differntial amplifier
 ![Diagram](docs/DC_diff.png)
 
 ## AC Analysis
-- Check Netlist: ![Netlist](netlist/Diff_Amp/AC_Analysis.sp)
+- Ngspice Code: [Netlist](netlist/Diff_Amp/AC_Analysis.sp)
 ### Gain of differntial amplifier
 ![Diagram](docs/gain_diff.png)
 ### Phase of differntial amplifier
 ![Diagram](docs/phase_differ.png)
 
 ## Transient Analysis
-- Check Netlist: ![Netlist](netlist/Diff_Amp/Tran_Analysis.sp)
+- Ngspice Code: [Netlist](netlist/Diff_Amp/Tran_Analysis.sp)
 ### Input of differntial amplifier
 ![Diagram](docs/ip_ac_differ.png)
 ### Amplified output of differntial amplifier
