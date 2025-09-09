@@ -4,12 +4,12 @@ This repository showcases various projects carried out using both Cadence tools 
 
 ## Differential Amplifier
 A differential amplifier amplifies the difference between two input signals while rejecting any voltage common to both (common-mode signal). It is a key building block in analog and mixed-signal circuits, valued for its noise immunity and stability.
-### Advantages
-- High CMRR (rejects common-mode noise)
-- Better stability against supply variations
-### Disadvantages
-- Requires matched components for ideal performance
-- More complex biasing than single-ended amplifiers
+- ### Advantages
+  - High CMRR (rejects common-mode noise)
+  - Better stability against supply variations
+- ### Disadvantages
+  - Requires matched components for ideal performance
+  - More complex biasing than single-ended amplifiers
 ## Circuit Diagram
 ![Diagram](docs/ckt_dia_differ_amp.jpeg)
 
