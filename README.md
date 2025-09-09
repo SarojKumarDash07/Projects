@@ -1,8 +1,14 @@
 # Projects
 This repository showcases various projects carried out using both Cadence tools and open-source platforms such as Ngspice and Xschem, all implemented with the SkyWater 130nm (SKY130) PDK.
-## In-Memory Computing for Machine Learning Using 8T SRAM
+## Contents
+- [1. In Memory Computing for Machine Learning Using 8T SRAM](#1-in-memory-computing-for-machine-learning-using-8t-sram)
+- [2. Differential Amplifier](#2-Differential-Amplifier)
+- [3. Operational Amplifier](#3-Operational-Amplifier)
+- [4. Inverter Chain Design](#4-Inverter-Chain-Design)
 
-## Differential Amplifier
+## 1. In Memory Computing for Machine Learning Using 8T SRAM
+
+## 2. Differential Amplifier
 A differential amplifier amplifies the difference between two input signals while rejecting any voltage common to both (common-mode signal). It is a key building block in analog and mixed-signal circuits, valued for its noise immunity and stability.
 - ### Advantages
   - High CMRR (rejects common-mode noise)
@@ -32,5 +38,5 @@ A differential amplifier amplifies the difference between two input signals whil
 ### Amplified output of differntial amplifier
 ![Diagram](docs/op_ac_differn.png)
 
-## Operational Amplifier
-## Inverter Chain Design
+## 3. Operational Amplifier
+## 4. Inverter Chain Design
