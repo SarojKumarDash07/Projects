@@ -6,7 +6,7 @@ This repository showcases various projects carried out using both Cadence tools 
 - [3. Operational Amplifier](#3-Operational-Amplifier)
 - [4. Inverter Chain Design](#4-Inverter-Chain-Design)
 
-## 1. In-Memory Computing for Machine LearningUsing 8T SRAM
+## 1. In Memory Computing for Machine LearningUsing 8T SRAM
 
 ## 2. Differential Amplifier
 A differential amplifier amplifies the difference between two input signals while rejecting any voltage common to both (common-mode signal). It is a key building block in analog and mixed-signal circuits, valued for its noise immunity and stability.
