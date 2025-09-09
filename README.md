@@ -15,7 +15,7 @@ This repository showcases various projects carried out using both Cadence tools 
 ![Diagram](docs/ckt_dia_differ_amp.jpeg)
 
 ## DC Analysis
-- Check Netlist: ![Netlist](netlist/Diff_Amp/DC_Analysis.sp)
+- Check Netlist: [Netlist](netlist/Diff_Amp/DC_Analysis.sp)
 ### DC output of differntial amplifier
 ![Diagram](docs/DC_diff.png)
 
