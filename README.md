@@ -3,14 +3,13 @@ This repository showcases various projects carried out using both Cadence tools 
 ## In-Memory Computing for Machine Learning Using 8T SRAM
 
 ## Differential Amplifier
-- A differential amplifier is a type of electronic amplifier that amplifies the difference between two input signals while rejecting any voltage common to both inputs (called common-mode signals).
-- It’s one of the most fundamental building blocks in analog and mixed-signal circuits.
+A differential amplifier amplifies the difference between two input signals while rejecting any voltage common to both (common-mode signal). It is a key building block in analog and mixed-signal circuits, valued for its noise immunity and stability.
 ### Advantages
-- High CMRR
-- Better stability
+- High CMRR (rejects common-mode noise)
+- Better stability against supply variations
 ### Disadvantages
-- Requires matched components for ideal operation.
-- More complex biasing compared to single-ended amplifiers.
+- Requires matched components for ideal performance
+- More complex biasing than single-ended amplifiers
 ## Circuit Diagram
 ![Diagram](docs/ckt_dia_differ_amp.jpeg)
 
